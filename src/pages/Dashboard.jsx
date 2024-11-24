@@ -1,4 +1,3 @@
-// src/pages/Dashboard.jsx
 import { useState, useEffect } from 'react';
 import { fetchUsers, addUser, deleteUser, updateUser } from '../utils/api';
 import PropTypes from 'prop-types';
