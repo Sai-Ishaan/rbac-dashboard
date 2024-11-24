@@ -21,5 +21,5 @@ Operations that can be done:
 
 5)Updation and Deletion of users
 For Vercel:
-Enter the following Login Credentials: admin@example.come.
+Enter the following Login Credentials: admin@example.com
 password: password
